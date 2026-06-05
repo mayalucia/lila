@@ -1,0 +1,19 @@
+# CLAUDE.md — rendered artefact, deployed from .guardian/CLAUDE.md
+# Anchored to root — .guardian/CLAUDE.md must be committed
+/CLAUDE.md
+!.guardian/CLAUDE.md
+
+# Session machinery and standalone sūtra repo
+/.claude/
+/.sutra/
+/.agent-shell/
+/.camps/
+
+# Local data / lab artefacts (regenerable from code)
+data/
+.lab/
+
+# OS / editor
+.DS_Store
+*~
+\#*\#

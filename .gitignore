@@ -13,7 +13,19 @@
 data/
 .lab/
 
+# Source-paper binaries (regenerable from upstream)
+codev/sources/**/*.pdf
+codev/sources/**/*.png
+codev/sources/**/*.jpg
+codev/sources/**/*.tar.gz
+codev/sources/**/*.xlsx
+codev/sources/**/*.zip
+
 # OS / editor
 .DS_Store
 *~
 \#*\#
+.observe/
+
+# park deposits (rite: aburaya/rites/park.md)
+.park/

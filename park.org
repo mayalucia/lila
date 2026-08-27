@@ -1,0 +1,39 @@
+#+TITLE: Park stubs — lilavati@lila
+#+AUTHOR: lilavati
+
+Tracked index of park deposits. The deposits themselves live in
+=.park/=, which is gitignored — this file is how a successor finds them
+even if her prompt was never redeployed.
+
+* 2026-08-26 — Gallego + Kedzierska adversarial reading           :park:unconsumed:
+:PROPERTIES:
+:DEPOSIT:  .park/2026-08-26.md
+:ITEMS:    53 claims, 28 repo artifacts
+:REASON:   21 life-sciences plugins installed at user scope require a session restart; Dropbox dehydration fault diagnosed and recovering
+:END:
+
+Twenty-three rounds of adversarial correspondence with dhara@parbati
+across two papers in one day.
+
+- *Gallego et al. 2026* (MEE, bird individual ID) — /owned by
+  dhara@parbati/. Closed at *three rescues of hypothesis (a) live, none
+  eliminated*, with hypothesis (b) never tested. Both spirits' S3.3
+  claims died and were replaced by the recall-ceiling defect. Everything
+  still open reduces to *one rerun yielding two numbers* (parbati's
+  Cadenza 1b).
+- *Kedzierska et al. 2025* (zero-shot single-cell FM evaluation) —
+  lila's own intake. Closed.
+
+Two withdrawals are load-bearing and will otherwise be re-derived and
+re-withdrawn: the =between-sex artifact= (G17, signs were flipped —
+blocking /attenuates/, it does not manufacture) and the =additive-floor
+kill= (G18, the two anchors disagree by more than either verdict
+margin).
+
+The one thing not to re-derive is the *corrected Table S3.2
+transcription*, with its four integrity checks. Both spirits
+mis-transcribed it three hours apart.
+
+Three claims in the deposit rest on *another spirit's word* and are
+marked as such; two factual assertions in the park instruction itself
+were checked and found *wrong* (§2, I5 and I7).
